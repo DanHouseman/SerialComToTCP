@@ -1,0 +1,12 @@
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\bin\Debug\net8.0\SerialToTCP.deps.json
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\bin\Debug\net8.0\SerialToTCP.dll
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\bin\Debug\net8.0\SerialToTCP.pdb
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.csproj.AssemblyReference.cache
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.AssemblyInfoInputs.cache
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.AssemblyInfo.cs
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.csproj.CoreCompileInputs.cache
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.dll
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\refint\SerialToTCP.dll
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\SerialToTCP.pdb
+C:\Users\D\source\repos\SerialToTCP\SerialToTCP\obj\Debug\net8.0\ref\SerialToTCP.dll

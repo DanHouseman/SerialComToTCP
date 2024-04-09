@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialToTCP", "SerialToTCP\SerialToTCP.csproj", "{EC0677FB-F611-45B8-9C46-4CDF2426DF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialToTCPConsole", "SerialToTCPConsole\SerialToTCPConsole.csproj", "{598D7195-B902-4F03-BDE2-B70CAA861384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0677FB-F611-45B8-9C46-4CDF2426DF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0677FB-F611-45B8-9C46-4CDF2426DF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0677FB-F611-45B8-9C46-4CDF2426DF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0677FB-F611-45B8-9C46-4CDF2426DF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598D7195-B902-4F03-BDE2-B70CAA861384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598D7195-B902-4F03-BDE2-B70CAA861384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598D7195-B902-4F03-BDE2-B70CAA861384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598D7195-B902-4F03-BDE2-B70CAA861384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99EBA63E-10E8-4019-AA0F-C05117D8787C}
+	EndGlobalSection
+EndGlobal
