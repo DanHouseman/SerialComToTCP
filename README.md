@@ -1,4 +1,4 @@
-# SerialCOMToTCP
+# SerialToTCP
 A library serves as a middleware to facilitate data forwarding between TCP/IP clients and serial (COM) port devices. 
 
 Designed to operate in scenarios where data received from network clients needs to be sent to a serial port and vice versa, enabling communication between networked clients and serially connected devices.
